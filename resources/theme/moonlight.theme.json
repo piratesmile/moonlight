@@ -1511,6 +1511,8 @@
       "selectionInactiveForeground": "selFg",
       "textBackground": "hc"
     },
+    "Tree.leftChildIndent": 6,
+    "Tree.rightChildIndent": 5,
     "UIDesigner": {
       "Activity.borderColor": "border",
       "Canvas.background": "cs",
